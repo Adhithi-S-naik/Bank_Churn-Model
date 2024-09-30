@@ -27,10 +27,10 @@ This Python script analyzes a dataset on bank churn modeling using Pandas, NumPy
 ### Results
 
 #### The trained Model visualization
-![Churn Distribution](image1.jpg)
+![Trained Model Result](image1.jpg)
 
 #### Predction testing Visualization
-![Feature Importance](image2.jpg)
+![Predicted Outputs](image2.jpg)(image3.jpg)
 
 ### Preprocessing
 
