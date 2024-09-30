@@ -1,6 +1,6 @@
 # bank_churn-model
 
-#Objectives:
+# Objectives:
 
 Customer Retention: The primary objective of a churn prediction model is to help banks retain valuable customers. By identifying customers at risk of churning, the bank can take proactive steps to retain them, such as offering incentives, personalized offers, or improved customer service.
 
